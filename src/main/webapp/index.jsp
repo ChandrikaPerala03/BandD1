@@ -1,6 +1,10 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<form>
+<center>
+name:<input type="text">
+password:<input type="password">
+</center>
+</form>
 </body>
-
 </html>
